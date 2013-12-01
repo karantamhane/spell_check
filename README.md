@@ -9,7 +9,7 @@ Execution instructions -
 GUI based ->
 
 * Download Shoes from 'http://shoesrb.com/downloads.html'
-* Clone the repo using 'git clone http://github.com/karantamhane/spell_check.git'
+* Clone the repo at 'http://github.com/karantamhane/spell_check.git'
 * Open Shoes and select 'Open an App'. 
 * Open 'new_shoes.rb' from the cloned repo folder to run spell checker.
 
